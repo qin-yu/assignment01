@@ -1,6 +1,6 @@
 ---
 title: "Exercise 1 - Getting started with data science"
-author: "Your name here"
+author: "Qin Yu"
 output: html_document
 ---
 
